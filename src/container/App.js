@@ -38,7 +38,7 @@ class App extends React.Component{
 
   state = {
     persons: [
-      {id:1,name:"Mitul",age:23},
+      {id:1,name:"Mayur",age:23},
       {id:2,name:"Yashpal",age:22}
     ],
     personflag:false
